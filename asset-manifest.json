@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ashishjaswal2002/React_Blog/static/css/main.be6cab0a.css",
+    "main.js": "/ashishjaswal2002/React_Blog/static/js/main.d3b0d7be.js",
+    "static/js/787.37d2db2c.chunk.js": "/ashishjaswal2002/React_Blog/static/js/787.37d2db2c.chunk.js",
+    "static/media/3.jpg": "/ashishjaswal2002/React_Blog/static/media/3.b5a06d889d9da84da7e9.jpg",
+    "static/media/1.jpg": "/ashishjaswal2002/React_Blog/static/media/1.6a9de5240faa124924cc.jpg",
+    "static/media/2.jpg": "/ashishjaswal2002/React_Blog/static/media/2.351101c9a25b74b9b54d.jpg",
+    "index.html": "/ashishjaswal2002/React_Blog/index.html",
+    "main.be6cab0a.css.map": "/ashishjaswal2002/React_Blog/static/css/main.be6cab0a.css.map",
+    "main.d3b0d7be.js.map": "/ashishjaswal2002/React_Blog/static/js/main.d3b0d7be.js.map",
+    "787.37d2db2c.chunk.js.map": "/ashishjaswal2002/React_Blog/static/js/787.37d2db2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6cab0a.css",
+    "static/js/main.d3b0d7be.js"
+  ]
+}
